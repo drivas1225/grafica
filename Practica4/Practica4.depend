@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1547650079 source:c:\users\lenovo\desktop\practicas glut\practica4\texturemanager.cpp
+	"TextureManager.h"
+
+1547650119 c:\users\lenovo\desktop\practicas glut\practica4\texturemanager.h
+	<windows.h>
+	<GL/glut.h>
+	<FreeImage.h>
+	<map>
+
+976692172 c:\users\lenovo\desktop\practicas glut\tp1\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1395197570 c:\users\lenovo\desktop\practicas glut\practica4\freeimage\dist\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1548428310 source:c:\users\lenovo\desktop\practicas glut\practica4\main.cpp
+	<windows.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<vector>
+	<GL/glut.h>
+	<GL/glext.h>
+	"TextureManager.h"
+
